@@ -29,6 +29,14 @@ Welcome to my page! I'm a developer passionate about creating different tools an
 
 ---
 
+## ⏱️ Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@KOTOKOPOLb&theme=dark" height="150em" />
+</div>
+
+---
+
 ## 📬 Get in Touch
 - 💬 **Discord:** [KOTOKOPOLb](https://discord.com/users/792275355682734091)  
 - 📨 **Telegram:** [t.me/KOTOKOPOLb](https://t.me/KOTOKOPOLb)  
